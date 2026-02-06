@@ -37,7 +37,7 @@ The following steps are covered in this project:
 
 ## Tools Used
 - Cadence Virtuoso
-- Spectre Simulator
+  
 
 ## Outcome
 The CMOS inverter design passes DRC and LVS successfully and demonstrates
